@@ -1,7 +1,7 @@
 
 # Image Processing Assignments
 
-Python codes for Image Processing Assignments.
+Python codes for Image Processing Popular Assignments.
 
 
 # Table of Contents
