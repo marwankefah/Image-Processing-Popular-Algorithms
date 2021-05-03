@@ -6,19 +6,19 @@ Python codes for Image Processing Assignments.
 
 # Table of Contents
    * [What is this?](#what-is-this)
-   * [Introduction](#localization)
-      * [Introduction to Jupyter & Python](#Introduction-to-Jupyter-Python)
+   * [Introduction](#Introduction)
+      * [Introduction to Jupyter and Python](#Introduction-to-Jupyter-and-Python)
       * [HSV and Histogram](#HSV-and-Histogram)
-   * [Smoothing & EdgeDetection](#Smoothing-EdgeDetection)
+   * [Smoothing and EdgeDetection](#Smoothing-and-EdgeDetection)
       * [Smoothing](#Smoothing)
-      * [EdgeDetection](#EdgeDetection)
+      * [Edge Detection](#Edge-Detection)
    * [Morphology](#Morphology)
    * [Segmentation](#Segmentation)
       * [Simple Thresholding Techniques](#Simple-Thresholding-Techniques)
       * [Adaptive Thresholding Techniques](#Adaptive-Thresholding-Techniques)
-   * [K-means & Hough Transform](#K-means-Hough-Transform)
-      * [K-means](#K-means)
-      * [Hough Transform](#Hough Transform)
+   * [K means and Hough Transform](#K-means-and-Hough-Transform)
+      * [K means](#K-means)
+      * [Hough Transform](#Hough-Transform)
    * [Textures](#Textures)
   
 # What is this?
@@ -27,7 +27,7 @@ This is a Python code collection of Image Processing algorithms.
 
 # Introduction
 
-## Introduction to Jupyter & Python
+## Introduction to Jupyter and Python
 - Understanding the basics of Python, Jupyter, Skimage.
 - Reading an image and then plot it.
 - Indexing Numpy matrices
@@ -44,5 +44,29 @@ Documentation: [Notebook]()
 Documentation: [Notebook]()
 
 
-# Smoothing
+# Smoothing and EdgeDetection
+## Smoothing
+Documentation: [Notebook]()
+## Edge Detection
+Documentation: [Notebook]()
+
+# Morphology
+Documentation: [Notebook]()
+
+# Segmentation
+## Simple Thresholding Techniques
+Documentation: [Notebook]()
+## Adaptive Thresholding Techniques
+Documentation: [Notebook]()
+
+# K means and Hough Transform
+## K means
+Documentation: [Notebook]()
+
+## Hough Transform
+Documentation: [Notebook]()
+
+
+# Textures
+Documentation: [Notebook]()
 
