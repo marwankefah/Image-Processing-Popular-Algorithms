@@ -53,13 +53,13 @@ Documentation: [Notebook]()
 # Morphology
 Documentation: [Notebook]()
 
-# Segmentatio
+# Segmentation
 ## Simple Thresholding Techniques
 Documentation: [Notebook]()
 ## Adaptive Thresholding Techniques
 Documentation: [Notebook]()
 
-# K means and  Hough Transform
+# K means and Hough Transform
 ## K means
 Documentation: [Notebook]()
 
