@@ -6,19 +6,19 @@ Python codes for Image Processing Assignments.
 
 # Table of Contents
    * [What is this?](#what-is-this)
-   * [Introduction](#localization)
-      * [Introduction to Jupyter & Python](#Introduction-to-Jupyter-Python)
+   * [Introduction](#Introduction)
+      * [Introduction to Jupyter & Python](#Introduction-to-Jupyter-&-Python)
       * [HSV and Histogram](#HSV-and-Histogram)
-   * [Smoothing & EdgeDetection](#Smoothing-EdgeDetection)
+   * [Smoothing & EdgeDetection](#Smoothing-&-EdgeDetection)
       * [Smoothing](#Smoothing)
       * [EdgeDetection](#EdgeDetection)
    * [Morphology](#Morphology)
    * [Segmentation](#Segmentation)
       * [Simple Thresholding Techniques](#Simple-Thresholding-Techniques)
       * [Adaptive Thresholding Techniques](#Adaptive-Thresholding-Techniques)
-   * [K-means & Hough Transform](#K-means-Hough-Transform)
+   * [K-means & Hough Transform](#K-means-&-Hough-Transform)
       * [K-means](#K-means)
-      * [Hough Transform](#Hough Transform)
+      * [Hough Transform](#Hough-Transform)
    * [Textures](#Textures)
   
 # What is this?
